@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-cghd$fd=x#(g12@+_m)(c#ps66j@69!t(g!bcw@zuv1@@gm$sy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
  
-ALLOWED_HOSTS = ["smarteduproject-production.up.railway.app"]
+ALLOWED_HOSTS = ["smarteduproject-production.up.railway.app","127.0.0.1","smarteduproject-production-d3ab.up.railway.app"]
 
 
 # Application definition
