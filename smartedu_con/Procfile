@@ -1,1 +1,1 @@
-web: gunicorn smartedu.wsgi
+web: gunicorn smartedu.wsgi --log-file -
