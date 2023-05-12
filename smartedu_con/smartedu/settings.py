@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-cghd$fd=x#(g12@+_m)(c#ps66j@69!t(g!bcw@zuv1@@gm$sy"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
  
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["smarteduproject-production.up.railway.app"]
 
 
 # Application definition
